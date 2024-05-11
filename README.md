@@ -15,7 +15,7 @@
 
 Вы можете скачать это приложение в `.exe` формате. Доступно во вкладке [realeses](https://github.com/hikkkaro/DotaFun/releases/tag/DotaFun)
 
-**Скомпилированно с помощью python библиотеки [Nuitka](https://nuitka.net)**
+**Скомпилированно с помощью python библиотеки [PyInstaller](https://pyinstaller.org/en/stable/)**
 
 ## Использование приложения
 ### С Python
