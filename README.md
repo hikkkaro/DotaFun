@@ -13,7 +13,7 @@
 
 ## Приложение в одном файле
 
-Вы можете скачать это приложение в `.exe` формате. Доступно во вкладке [realeses](https://github.com/hikkkaro/DotaFun/releases/tag/DotaFun)
+Вы можете скачать это приложение в `.exe` формате. Доступно во вкладке [realeses](https://github.com/hikkkaro/DotaFun/releases/tag/v1.1.0)
 
 **Скомпилированно с помощью python библиотеки [PyInstaller](https://pyinstaller.org/en/stable/)**
 
